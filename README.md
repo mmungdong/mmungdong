@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm mungdong.
+# 👋 Hi, I'm mungdong.
 
 **AI Agent Tooling · Go & Full-stack Engineering**
 

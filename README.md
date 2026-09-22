@@ -21,13 +21,6 @@ I build reliable developer tools and agent workflows that turn complex systems i
 - Building Go-based tools for automation, integration, and dependable backend systems.
 - Shipping full-stack products that connect thoughtful interfaces with maintainable services and infrastructure.
 
-## Selected work
-
-| Project | What it is | Focus |
-| --- | --- | --- |
-| [`skills`](https://github.com/mmungdong/skills) | A curated collection of AI Agent Skills I use, maintain, and share across coding agents. | Agent tooling · Python |
-| [`nav-next`](https://github.com/mmungdong/nav-next) | A lightweight navigation product built with TypeScript. | Frontend · Product engineering |
-| [`full-stack-devkit`](https://github.com/mmungdong/full-stack-devkit) | A practical toolkit for full-stack development, centered on Go workflows. | Go · Developer tooling |
 
 ## Toolbox
 
@@ -38,11 +31,11 @@ I build reliable developer tools and agent workflows that turn complex systems i
 
 ## Engineering principles
 
-> Build tools around real workflows, not demos.  
-> Make automation observable, reversible, and maintainable.  
+> Build tools around real workflows, not demos.
+> Make automation observable, reversible, and maintainable.
 > Never let AI conclusions outrun their evidence or permissions.
 
 ---
 
-I'm always interested in practical AI Agent tooling, Go systems, and developer infrastructure.  
+I'm always interested in practical AI Agent tooling, Go systems, and developer infrastructure.
 [Explore my repositories](https://github.com/mmungdong?tab=repositories) or follow along as I build.
